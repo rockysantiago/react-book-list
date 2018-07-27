@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import BookList from 'components/BookList';
+import BookList from 'containers/BookList';
 
 class App extends Component {
   render() {
